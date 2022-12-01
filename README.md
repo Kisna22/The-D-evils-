@@ -1,4 +1,4 @@
-1.<h3>The punnet panday bakchod आदमी<h3>
+<h3>The punnet panday bakchod आदमी<h3>
 <img
   src="20221117_155315.jpg"
   alt="Alt text"
@@ -8,7 +8,7 @@
 
 
 
-2.<h3>kunal the fuck boy </h3>
+<h3>kunal the fuck boy </h3>
 <img
   src="20221122_144339.jpg"
   alt="Alt text"
