@@ -17,11 +17,3 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
  
 
-<!--<h3>kisnaa verma  bakchod admi </h3>
-
-<img
-  src="IMG-20221201-WA0007.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
- 
